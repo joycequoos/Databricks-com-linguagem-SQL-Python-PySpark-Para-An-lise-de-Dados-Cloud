@@ -6,7 +6,7 @@
 ### Databricks com linguagem SQL, Python, PySpark Para Análise de Dados Cloud
 
 <div> 
-<p><a href="https://github.com/joycequoos/Data_Enginer/blob/main/README.md">01_Databricks Free Edition</a></p>
+<p><a href="https://github.com/joycequoos/DatabricksFreeEdition/blob/main/README.md">01_Databricks Free Edition</a></p>
 </div> 
 
 <div> 
