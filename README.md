@@ -5,7 +5,7 @@
 
 ### Databricks com linguagem SQL, Python, PySpark Para Análise de Dados Cloud
 
-- Sobre o Databricks: O <b>Databricks</b> é uma plataforma unificada em nuvem para <b>processamento de grandes volumes de dados, inteligência artificial e engenharia de dados,</b> baseada em Apache Spark e na arquitetura Data Lakehouse.
+ O <b>Databricks</b> é uma plataforma unificada em nuvem para <b>processamento de grandes volumes de dados, inteligência artificial e engenharia de dados,</b> baseada em Apache Spark e na arquitetura Data Lakehouse.
 
 Em poucas palavras: é um ambiente onde equipes de dados constroem pipelines, analisam informações e treinam modelos de machine learning no mesmo lugar.
 
