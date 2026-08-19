@@ -29,7 +29,7 @@ Estudo prático da plataforma Databricks — do ambiente gratuito local até um 
 | # | Tópico | Link |
 |---|---|---|
 | 01 | Databricks Free Edition | [ver conteúdo](https://github.com/joycequoos/DatabricksFreeEdition) |
-| 02 | Primeiros comandos e manipulação de arquivos | [ver conteúdo](LINK_CORRETO) |
+| 02 | Primeiros comandos e manipulação de arquivos | [ver conteúdo](https://github.com/joycequoos/Databricks_PrimeirosComandos_ManipulacaoArquivos) |
 | 03 | Tipos de dados no PySpark | [ver conteúdo](LINK_CORRETO) |
 | 04 | Sistema interno de arquivos | [ver conteúdo](LINK_CORRETO) |
 | 05 | Tabelas do sistema Databricks | [ver conteúdo](LINK_CORRETO) |
