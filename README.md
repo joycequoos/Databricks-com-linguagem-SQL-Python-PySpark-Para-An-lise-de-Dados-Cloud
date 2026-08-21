@@ -6,6 +6,8 @@
 
 Estudo prático da plataforma Databricks — do ambiente gratuito local até um projeto completo em Azure com arquitetura medalhão (bronze/silver/gold).
 
+> 📚 Anotações baseadas no curso [Databricks Developer Spark, SQL, Python Para Análise de Dados](https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados/) (Udemy), do professor [Edmilson Alves dos Santos](https://www.udemy.com/user/edmilson-alves-dos-santos-2/), Engenheiro de Dados — com adaptações, exemplos práticos e organização próprios.
+
 ## Conceitos-base
 
 **Databricks**: plataforma unificada em nuvem para processamento de grandes volumes de dados, IA e engenharia de dados, baseada em Apache Spark e na arquitetura Data Lakehouse. Em poucas palavras: ambiente onde equipes de dados constroem pipelines, analisam dados e treinam modelos de ML no mesmo lugar.
